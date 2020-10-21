@@ -6,7 +6,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Conflict Resolution");
+
+            Console.WriteLine("Hello!");
 
             Console.WriteLine("1st change");
 
